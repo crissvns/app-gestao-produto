@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "name": "Macbook air 13 Polegadas",
+      "price": "5500",
+      "id": 1
+    },
+    {
+      "name": "Macbook pro 13 Polegadas",
+      "price": "11999",
+      "id": 2
+    }
+  ]
+}
